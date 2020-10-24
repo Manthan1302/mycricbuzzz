@@ -1,0 +1,123 @@
+.main{
+	background-color: #009270;
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	color: white;
+	
+
+}
+.h{
+	padding: 10px 8px 6px 8px;
+}
+.h:hover{
+	background-color: lightgrey;
+
+}
+.nav{
+	background-color: #4a4a4a;
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	color: white;
+	
+}
+.div{
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	background-color: white;
+	
+	
+}
+.h4{
+	color: #009270;
+	background-color: white;
+	padding: 20px;
+	
+}
+.col1{
+	color: red;
+}
+.col2{
+	color: darkorange;
+}
+.nav2{
+	padding: 10px;
+	background-color: white;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap:;
+	
+
+
+}
+.size{
+	font-size: 20px;
+}
+.center{
+	background-color: #E3E6E3;
+	display: flex;
+	padding: 10px;
+	justify-content: space-between;
+	
+	
+	
+	
+}
+.a{
+	
+	flex: 25%;
+	background-color: white;
+	flex-wrap: wrap;
+	
+}
+.b{
+	
+	flex: 50%;
+	background-color: white;
+	flex-wrap: wrap;
+	
+}
+.c{
+
+	flex: 25%;
+	background-color: white;
+	flex-wrap: wrap;
+}
+.img{
+	height: 150px;
+	width: 300px;
+	border-radius: 15px;
+}
+.footer{
+	background-color: #393939;
+	padding: 50px
+	color:white;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
+}
+.site{
+	color: white;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+
+}
+.site1{
+	color: white;
+	padding-left: 50px;
+	padding-top:120px;flex-wrap: wrap;
+}
+.h
+{
+background: ;
+}
+.h:hover{
+	color: green;
+}
